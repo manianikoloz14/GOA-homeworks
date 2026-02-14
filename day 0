@@ -1,0 +1,24 @@
+#from turtle import()
+
+
+
+print('hello')      #1
+print('my name')    #2
+print('nikoloz mania')    #3
+print('my favorite food')   #4
+print('pizza')   #5
+print('my age')   #6
+print("7"'+''7')   #7
+print("14")   #8
+print('i just started learning python')   #9
+print('GOA academy')   #10
+print('very cool tbh')   #11
+print('priniting!!!')   #12
+print('i')   #13
+print('love')   #14
+print('coding')   #15
+print('this')   #16
+print('is')   #17
+print('my first')   #18
+print('homework!')   #19
+print('bye')   #20
