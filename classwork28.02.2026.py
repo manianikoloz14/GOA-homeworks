@@ -1,0 +1,53 @@
+# რა არის კომენტარი?
+# კომენტარი არის ტექსტი კოდში, რომელსაც პროგრამა არ ასრულებს.
+# იგი გამოიყენება კოდის ასახსნელად და გასაგებად ადამიანებისთვის.
+# კომენტარი იქმნება "#" სიმბოლოს გამოყენებით (Python-ში).
+# მისი დანიშნულებაა კოდის ახსნა და წაკითხვის გამარტივებაა.
+
+# რა არის case-sensitive და case-insensitive?
+# Case-sensitive განასხვავებს დიდ და პატარა ასოებს.
+# მაგალითად Python არის case-sensitive ენა.
+# ცვლადები "Name" და "name" განსხვავებული ცვლადებია.
+# Case-insensitive ენა არ განასხვავებს დიდ და პატარა ასოებს.
+# ასეთ ენაში "NAME" და "name" ერთნაირად აღიქმება.
+
+# რა არის snake_case?
+# snake_case არის ცვლადების დასახელების სტილი,
+# სადაც სიტყვები ერთმანეთისგან გამოყოფილია ქვედა ტირეთი "_"
+# და ყველა ასო პატარაა.
+# მაგალითად: first_name, user_age, goa_programming.
+
+# ერთი დიდი წინადადება
+name = 'nikoloz mania' 
+age = '14'
+profession = 'programmer and a pianist'
+print('my name is' + " " + name + " " + 'my age is' + " " + age + " " + 'i am' + " " + profession)
+
+# 5) რა არის bug და debugging?
+# Bug არის შეცდომა პროგრამაში, რომელიც იწვევს error-ს
+# Debugging არის პროცესი, რომლის დროსაც ვპოულობთ და ვასწორებთ bug-ს.
+# Debugging-ისთვის ვიყენებთ print-ებს ან debugger-ს.
+
+
+
+name = "Lika"
+print(name)
+
+number = '5'
+text = " apples"
+result = number + text
+print(result)
+
+name = 'liKa'
+name2 = name + "4"
+
+first_user = "Lika"
+user = "Giorgi"
+print(first_user)
+
+first_name = 'Data'
+last_name = "random"
+
+first_user = "Lika"
+user = "Giorgi"
+print(first_user)
